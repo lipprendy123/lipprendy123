@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pahleviiii.vercel.app" target="_blank">🌐 Portfolio</a>
-  &nbsp;·&nbsp;
-  &nbsp;·&nbsp;
+  
   <a href="mailto:alifrendy663@gmail.com">📬 alifrendy663@gmail.com</a>
 </p>
 
