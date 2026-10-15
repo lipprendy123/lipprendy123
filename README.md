@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://pahleviiii.vercel.app" target="_blank">🌐 Portfolio</a>
   &nbsp;·&nbsp;
-  <a href="https://drive.google.com/file/d/1d-Go9nrm0CdGchCp7z6I45t0LKpPMH2P/view?usp=drive_link" target="_blank">📄 Resume</a>
   &nbsp;·&nbsp;
   <a href="mailto:alifrendy663@gmail.com">📬 alifrendy663@gmail.com</a>
 </p>
